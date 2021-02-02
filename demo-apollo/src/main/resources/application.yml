@@ -1,0 +1,9 @@
+app:
+  id: test3
+env: DEV
+apollo:
+  bootstrap: true
+  meta: http://configcenter.jushuitan-inc.com:8081
+
+
+#  -Dapollo.configService="http://local-cfgcenter.jushuitan-inc.com:8081":
